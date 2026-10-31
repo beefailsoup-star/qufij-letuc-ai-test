@@ -4,4 +4,4 @@
 
 ## License
 本專案使用Attribution-NonCommercial-ShareAlike 4.0 International
-(LICENSE)[LICENSE]
+[LICENSE](LICENSE)
